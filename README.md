@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Digital Twin for Predictive Maintenance & Industrial Equipment Health Monitoring
 
 A **simulation-based Digital Twin** of an industrial motor — no physical hardware is
@@ -207,3 +208,7 @@ framing. The underlying skills — simulation modeling, multi-class classificati
 unsupervised anomaly detection, rule-based scoring, database design, and dashboard
 engineering — are the same skills a real IoT-based predictive maintenance system would
 require.
+=======
+# Digital_Twin
+Simulation-Based Digital Twin for Predictive Maintenance and Industrial Motor Health Monitoring
+>>>>>>> 7acc4120078dccd05e0160b04c91d48f0c74dfbb
