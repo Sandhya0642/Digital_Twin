@@ -185,15 +185,7 @@ Digital Twin · Predictive Maintenance · Anomaly Detection · Industry 4.0
 
 
 
-## Note
 
-This project is a **simulation only** — it does not use real sensors, real motors, or
-real hardware. State this plainly in interviews; it's a deliberate, technically honest
-framing. The underlying skills — simulation modeling, multi-class classification,
-unsupervised anomaly detection, rule-based scoring, database design, and dashboard
-engineering — are the same skills a real IoT-based predictive maintenance system would
-require.
-=======
 # Digital_Twin
 Simulation-Based Digital Twin for Predictive Maintenance and Industrial Motor Health Monitoring
 >>>>>>> 7acc4120078dccd05e0160b04c91d48f0c74dfbb
