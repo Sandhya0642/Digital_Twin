@@ -1,2 +1,2 @@
 # Digital_Twin
-Digital Twin of motor to control RUL(Remaining Useful Life)
+Simulation-Based Digital Twin for Predictive Maintenance and Industrial Motor Health Monitoring
