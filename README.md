@@ -166,7 +166,7 @@ Industry 4.0 deployment.
 
 ---
 
-## Resume bullet point
+##  bullet point
 
 > Developed a Digital Twin simulation of an industrial motor in Python, modeling 8
 > sensor parameters (temperature, vibration, RPM, current, voltage, bearing
@@ -182,23 +182,8 @@ Digital Twin · Predictive Maintenance · Anomaly Detection · Industry 4.0
 
 ---
 
-## What to say in the interview
 
-> "I developed a simulation-based Digital Twin of an industrial motor because
-> physical hardware wasn't available. It models eight sensor parameters and can
-> either jump directly to a fault condition or simulate the motor progressively
-> degrading over its operating hours, the way a real machine would. A Random Forest
-> model diagnoses the specific fault type, and I paired it with an Isolation Forest
-> trained only on healthy data so the system can also flag readings that just look
-> abnormal, even if they don't match a known fault signature — that's the difference
-> between supervised and unsupervised approaches to condition monitoring. I extended
-> it to a six-machine fleet view with OEE-style metrics, and every non-healthy
-> diagnosis gets logged to an Alerts Center automatically. All of it is persisted in
-> SQLite so I can show trends over time, and I mapped out how this would scale to a
-> full IoT deployment with real sensors, MQTT, and an LSTM for time-series
-> prediction."
 
----
 
 ## Note
 
